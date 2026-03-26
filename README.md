@@ -84,20 +84,15 @@ The system follows a **distributed embedded + IoT architecture**:
 
 <br>
 
-## 📂 Repository Structure
+##  Demonstration  
 
-```
-ESP8266-IoT-Smart-File-Locker-RFID-Telegram-Bot/
-│
-├── report/
-├── presentation/
-├── poster/
-├── code/
-├── images/
-└── README.md
-```
+This folder contains multiple demo videos covering:
+- RFID authentication  
+- Locker operation  
+- Dashboard updates  
+- Telegram alerts  
 
-<br>
+👉 [View Demo Videos] (https://drive.google.com/drive/folders/1WoRkxWdLqEKnEKy5N6jNFcpSzW_fp39Z)
 
 ##  Key Highlights
 
